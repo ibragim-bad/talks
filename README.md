@@ -3,4 +3,5 @@
 
 Видео лекций:
 ИИ в медицине. https://youtu.be/MTg8nZKq3m4
+
 Как нейронные сети учатся говорить? https://youtu.be/pkHElncEjeg
